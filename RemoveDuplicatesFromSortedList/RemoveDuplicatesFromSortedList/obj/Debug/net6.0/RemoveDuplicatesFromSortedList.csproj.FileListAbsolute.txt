@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.exe
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.deps.json
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.runtimeconfig.json
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.dll
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\ref\RemoveDuplicatesFromSortedList.dll
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.pdb
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.AssemblyInfo.cs
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.dll
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\ref\RemoveDuplicatesFromSortedList.dll
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.pdb
+D:\kia prjc\tamrin\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.genruntimeconfig.cache
